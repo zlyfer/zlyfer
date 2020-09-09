@@ -4,3 +4,4 @@
 ![Disocrd Online Users](https://img.shields.io/discord/203778798406074368?logo=discord&logoColor=white&style=for-the-badge)
 [![Twitch Status SlyNCarli](https://img.shields.io/twitch/status/slyncarli?label=twitch%2Fslyncarli&logo=twitch&logoColor=white&style=for-the-badge)](https://www.twitch.tv/slyncarli)
 [![Twitch Status zlyfah](https://img.shields.io/twitch/status/zlyfer?label=twitch%2Fzlyfah&logo=twitch&logoColor=white&style=for-the-badge)](https://www.twitch.tv/zlyfah)
+![Time](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fapi.zlyfer.net%2Fshieldsio%2Ftime)
