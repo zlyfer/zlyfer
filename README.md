@@ -1,4 +1,4 @@
-<img align="left" height="150" src="https://zlyfer.net/images/logo.png"  />
+<img align="left" height="150" src="https://zlyfer.net/images/logo_round.png"  />
 
 <h3 align="left">Heya, my name is Frederik Shull and I am a passionate frontend developer from Germany!</h3>
 
