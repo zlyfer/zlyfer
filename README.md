@@ -1,6 +1,6 @@
 <img align="left" height="150" src="https://zlyfer.net/images/logo_round.png"  />
 
-<h3 align="left">Heya, my name is Frederik Shull and I am a passionate software developer from Germany!</h3>
+<h3 align="center">Heya, my name is Frederik Shull and I am a passionate software developer from Germany!</h3>
 
 <div align="center">
   <a href="https://dynchan.net/" target="_blank">
@@ -36,6 +36,8 @@
 </div>
 
 <br clear="both">
+
+<h3 align="left">Experiences:</h3>
 
 <div align="left">
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?logo=androidstudio&logoColor=white&style=for-the-badge" height="30" alt="androidstudio logo"  />
