@@ -35,6 +35,10 @@
 [![dynchan.net](https://img.shields.io/static/v1?message=DynChan.net&label=Discord%20Bot&color=4caf50&logoColor=white&labelColor=555&style=for-the-badge)](https://github.com/dynchan)
 [![ungwunwiz.net](https://img.shields.io/static/v1?message=UnGunWiz.net&label=PUBG%20Gun%20Stats&color=ac56fe&logoColor=white&labelColor=555&style=for-the-badge)](https://github.com/ungunwiz)
 
+### WIP Projects
+
+[![Pterodactyl Ionic Angular App](https://img.shields.io/static/v1?message=Pterodactyl%20App&label=Ionic%20Angular&color=c72f1e&logoColor=white&labelColor=555&style=for-the-badge)](https://github.com/zlyfer/net.zlyfer.pteroapp)
+
 ### Tools
 
 ![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge)
