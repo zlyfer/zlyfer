@@ -37,7 +37,7 @@
 
 ### WIP Projects
 
-[![Pterodactyl Ionic Angular App: Tapejara](https://img.shields.io/static/v1?message=Tapejara&label=Ionic%20Angular&color=c72f1e&logoColor=white&labelColor=555&style=for-the-badge)](https://github.com/zlyfer/net.zlyfer.tapejara)
+[![Pterodactyl Ionic Angular App: Tapejara](https://img.shields.io/static/v1?message=Tapejara&label=Pterodactyl%20Ionic%20Angular&color=c72f1e&logoColor=white&labelColor=555&style=for-the-badge)](https://github.com/zlyfer/net.zlyfer.tapejara)
 
 ### Tools
 
