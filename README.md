@@ -24,7 +24,6 @@
 
 ![Discord JS](https://img.shields.io/badge/DiscordJS-555555?logo=discord&logoColor=white&style=for-the-badge)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white&style=for-the-badge)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)
 ![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
